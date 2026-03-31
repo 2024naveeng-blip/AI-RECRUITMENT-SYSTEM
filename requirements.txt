@@ -1,0 +1,14 @@
+# Core Backend
+flask
+flask-cors
+python-dotenv
+
+# AI and PDF Processing
+openai
+langchain
+PyPDF2
+
+# Speech and Language
+SpeechRecognition
+pydub
+gTTS
